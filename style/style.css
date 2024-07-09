@@ -16,7 +16,7 @@
     margin: 0 100px;
 }
 /* Header section */
-.banner-header{
+.banner-container{
   
     max-width: 1440px;
     Height: 750px;
@@ -25,9 +25,8 @@
     flex-direction: column;
     align-items: center;
     margin: 0 auto;
-}
-.banner-container{
-    padding: 20px;
+    margin-bottom: 10px;
+    padding-top: 20px;
 }
 .banner-headline{
     font-size: 40px;
@@ -38,10 +37,13 @@
     font-size: 20px;
     margin: 0 100px;
     text-align: justify;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 .banner-btn{
     padding-top: 20px;
     font-size: 25px;
+    padding-bottom: 20px;
 }
 .btn-style{
     background-color: black;
