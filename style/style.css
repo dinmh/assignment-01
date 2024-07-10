@@ -118,10 +118,10 @@
     text-align: center;
 }
 .inspiration-video{
-    max-width: 1300px;
+    max-width: 1260px;
     Height: 700px;
     margin: 0 auto;
-    border: 10px solid snow;
+    border: 30px solid rgb(223, 218, 218);
 }
 .section-three{
     padding-top:  20px;
