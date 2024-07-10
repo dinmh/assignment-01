@@ -16,8 +16,8 @@
     margin: 0 100px;
 }
 /* Header section */
+
 .banner-container{
-  
     max-width: 1440px;
     Height: 750px;
     background-image: url(/B10A1-Challenge-Begins/assets/Hero-bg.png);
@@ -101,3 +101,36 @@
     display: flex;
     margin-top: 40px;
 }
+
+/* Section-two */
+
+.section-two{
+    padding-top:  20px;
+    max-width: 1300px;
+    Height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.inspiration-title{
+    text-align: center;
+}
+.inspiration-video{
+    max-width: 1300px;
+    Height: 700px;
+    margin: 0 auto;
+    border: 10px solid snow;
+}
+.section-three{
+    padding-top:  20px;
+    max-width: 1300px;
+    Height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
