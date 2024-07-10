@@ -25,7 +25,7 @@
 
 .banner-container{
     max-width: 1440px;
-    Height: 750px;
+    Height: 650px;
     background-image: url(/B10A1-Challenge-Begins/assets/Hero-bg.png);
     display: flex;
     flex-direction: column;
@@ -170,6 +170,38 @@
     background-color: rgba(255, 223, 0, 0.05);
 }
 
+
+
+/* section five */
+.section-five{
+    max-width: 1300px;
+    Height: 200px;
+    background-image: url(/B10A1-Challenge-Begins/assets/handshake.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+.section-five-title{
+    color: #FFFFFF;
+    text-align: center;
+}
+.section-five-content{
+    color: #FFFFFF;
+    width: 600px;
+    text-align: justify;
+}
+.comment-box{
+    width: 680px;
+    display: flex;
+    align-content: center;
+    margin-left: 450px;
+    height: 90px;
+    gap: 10px;
+}
 
 /* Footer */
 .footer{
