@@ -26,7 +26,7 @@
 .banner-container{
     max-width: 1440px;
     Height: 650px;
-    background-image: url(/B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -176,7 +176,7 @@
 .section-five{
     max-width: 1300px;
     Height: 200px;
-    background-image: url(/B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
